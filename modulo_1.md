@@ -49,3 +49,23 @@ Os controles e ações usadas para proteger os dados:
 
 ---
 
+## 4. Invasores Cibernéticos
+Existem 3 tipos de invasores que tentam colocar as mãos em noassas informações: 
+* **Amadores:** 'Script Kiddies', geralmente utilizam ferramentas existentes ou instruções encontrdas na internet.
+* **Harckers:** Grupo de invasores que entram em computadores ou redes para obter acesso, existem 3 classificações de acordo com a intenção da invasão:
+    * **White hat:** Invadem redes ou sistemas com o intuito de indentificar pontos fracos, de modo a melhorar a segurança. 
+    * **Gray hat:** Tentam encontrar vulnerabilidades em um sistema mas só relatam a descoberta se a ação coincidir com seus objetivos.
+    * **Black hat:** Invadem e tiram vantagem dessas vulnerabilidades para ganhos pessoais.
+* **Hackers Organizacionais:** Incluem organizações de hacktivistas, criminosos virtuais, terroristas e hackers patrocionados pelo governo. Geralmente são altamente treinados e fornecem o crime digital como um serviço.
+
+---
+
+### 5. Guerra Cibernética
+Uso de tecnologia para penetrar e atacar sistemas de rede, para causar danos ou interromper serviços.
+
+O Pincipal objetivo da guerra cibernética é ganhar vantagem sobre os adversários.
+* Para coletar informações comprometidas e/ou defesa
+* Para impactar a infraestrutura de outra nação
+
+
+
